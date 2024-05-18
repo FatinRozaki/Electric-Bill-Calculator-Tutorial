@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <drawable name="profile"/>
+    <string name="app_name">MyElectricBill</string>
+    <string name="github"><a href="https://github.com/FatinRozaki">Github</a>
+    </string>
+    <style name="Base.Theme.MyElectricBill" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.MyElectricBill" parent="Base.Theme.MyElectricBill"/>
+</resources>
